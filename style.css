@@ -1,0 +1,93 @@
+.section-light {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+.section2 {
+    background-color: rgba(32, 42, 43, 0.568);
+    padding: 2em;
+}
+
+img.image-class {
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+img.vertical-img {
+    width: 100px;
+    height: 300px;
+}
+
+button.btn.btn-dark {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h5#CoolStuffModalLabel.modal-title {
+    margin: auto;
+}
+
+img.Modal-img {
+    display: block;
+    margin: auto;
+}
+
+img.card-img-top.img-fluid {
+    width: 358px;
+    height: 268.828px;   
+    margin: auto;
+    background-color: #eceeef;
+
+}
+
+div.card {
+    margin: auto;
+    border-style: none;
+    background-color: #eceeef;
+}
+
+div.col-lg-4.col-sm-12 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+img.img-fluid.footer-img {
+    width: 250px;
+    height: 125px;
+    padding: 10px;
+}
+
+div.col-sm-12.col-lg-3.footer-col {
+    padding: 0;
+}
+
+i.fa.fa-facebook-square.fa-4x::before {
+    color: #3b5998;
+    
+}
+
+i.fa.fa-google.fa-4x::before {
+    color: #db3236;
+}
+
+i.fa.fa-instagram.fa-4x::before {
+    color: #fb3958;
+}
+
+i.fa {
+    padding: 20px;
+}
